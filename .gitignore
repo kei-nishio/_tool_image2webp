@@ -25,4 +25,5 @@ ENV/
 Thumbs.db
 
 # Input/Output folders
+input/
 output/
